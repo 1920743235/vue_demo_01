@@ -4,7 +4,9 @@
 ```
 yarn install
 ```
-
+```
+node /app.js
+```
 ### Compiles and hot-reloads for development
 ```
 yarn serve
